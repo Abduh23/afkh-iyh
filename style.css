@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&display=swap');
+body {
+    background-color: black;
+    margin-bottom: 1500px;
+}
+.p1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.img1 {
+text-align: center;
+}
+.linkyt {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    size: 1000px;
+}
+
+.linkyt a {
+    color: blue;
+    text-decoration: none;
+    text-align: center;
+    size: 1000px;
+}
+.linkyt a:hover {
+    color: red;
+    
+}
